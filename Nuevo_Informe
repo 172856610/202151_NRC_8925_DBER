@@ -1,0 +1,7 @@
+#include <isotream>
+
+main namespace std;
+int main () 
+    cout <<"Hola ni nombre es Andres";
+    return 0;
+}
